@@ -41,23 +41,6 @@ Tbh not much to share. I am a beginner but making progress fast.
 
 I am self-learning FPGA (VHDL) now and I will develop a small RISC-V instruction set extension to calculate the great circle distances later this year.
 
-## Education & Employment History
-**University of California, Irvine**, 09/2022-12/2023<br>
-Master of Software Engineering <br>
-A+ in all courses<br>
-
-**Hong Kong Polytechnic University**, 09/2018-06/2022<br>
-Major in Accounting and Finance, Minor in Computing<br>
-Dean's List for 4 years<br>
-
-**SAP**, 06/2021-12/2021<br>
-Intern as Support Engineer<br>
-Developed a Node.js program to synchronize two kinds of databases<br>
-Restructured the financial analysis scripts from O(n^2) to O(n)<br>
-
-**KPMG**, 01/2021-04/2021<br>
-Intern as Auditor<br>
-
 ## More
 
 <details>
