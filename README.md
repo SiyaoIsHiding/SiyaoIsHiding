@@ -59,13 +59,30 @@ Restructured the financial analysis scripts from O(n^2) to O(n)<br>
 Intern as Auditor<br>
 
 ## More
-**In case you wonder why there's so much irrelevant stuff on my resume:**
 
-First, I believe a good software engineer always cares about the hardware. If I really care about the performance of my application, I'mma optimize it from the logic gates.
-
-Second, I find different kinds of pleasure in different fields of programming.
 <details>
-<summary>Different kinds of pleasure</summary>
+<summary><strong>Education &amp; Employment History</strong></summary>
+<br>
+<p><strong>University of California, Irvine</strong>, 09/2022-12/2023<br>
+Master of Software Engineering <br>
+A+ in all courses<br></p>
+<p><strong>Hong Kong Polytechnic University</strong>, 09/2018-06/2022<br>
+Major in Accounting and Finance, Minor in Computing<br>
+Dean's List for 4 years<br></p>
+<p><strong>SAP</strong>, 06/2021-12/2021<br>
+Intern as Support Engineer<br>
+Developed a Node.js program to synchronize two kinds of databases<br>
+Restructured the financial analysis scripts from O(n^2) to O(n)<br></p>
+<p><strong>KPMG</strong>, 01/2021-04/2021<br>
+Intern as Auditor<br></p>
+</details>
+
+<details>
+<summary><strong>In case you wonder why there's so much irrelevant stuff on my resume</strong></summary>
+<br>
+<p>First, I believe a good software engineer always cares about the hardware. If I really care about the performance of my application, I'mma optimize it from the logic gates.</p>
+<p>Second, I find different kinds of pleasure in different fields of programming.</p>
+
 <ol>
 <li><strong>The pleasure of solving puzzles</strong>: Leetcoding, coding games.</li>
 <li><strong>The pleasure of building, e.g. playing LEGO</strong>: application development, development of large-scale stuff.</li>
@@ -74,9 +91,9 @@ Second, I find different kinds of pleasure in different fields of programming.
 </ol>
 </details>
 
-
-**In case you wanna know more about me as a person:**
 <details>
-<summary>Some of my personal interests</summary>
+<summary><strong>In case you wanna know more about me as a person</strong></summary>
+Some of my personal interests
 </details>
+
 
