@@ -71,6 +71,7 @@ Intern as Auditor<br></p>
 <li><strong>The pleasure of building, e.g. playing LEGO</strong>: application development, development of large-scale stuff.</li>
 <li><strong>The pleasure of talking with the agency of truth that seldom lies unless it's too hot</strong>: hardware development.</li>
 <li><strong>The pleasure of retrospecting how the world runs and then modeling it</strong>: OOP</li>
+<li><strong>The pleasure of hitting Enter</strong>: type-strict languages</li>
 </ol>
 </details>
 
