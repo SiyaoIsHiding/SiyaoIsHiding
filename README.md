@@ -75,9 +75,4 @@ Intern as Auditor<br></p>
 </ol>
 </details>
 
-<details>
-<summary><strong>In case you wanna know more about me as a person</strong></summary>
-Some of my personal interests
-</details>
-
 
