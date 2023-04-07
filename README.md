@@ -1,8 +1,3 @@
-```text
-In search of summer internships and NG full-time jobs in California or remote!
-Full-time/part-time, paid/unpaid, employment/unofficial collaboration... just hmu!
-```
-
 # Hello from Siyao (Jane) He :wave:
 I do a lot of open-source contributions to gain experience, receive guidance from the seniors, make an impact, and have fun without those online assessments and rounds of interviews.
 ## Personal Projects & Contributions
