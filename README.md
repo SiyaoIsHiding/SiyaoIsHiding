@@ -8,7 +8,7 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
     * Android Kotlin - Node.js - MySQL - Azure
   * :octocat:&nbsp; [QuizApp](https://github.com/SiyaoIsHiding/QuizApp)
     * iOS Swift
-* Game Development
+* Game Development (All in Unity 2D C#)
   * :video_game: [Order Up!](https://madjuse.itch.io/order-up)
     * A single-player Overcooked! where you have to switch roles between the chef and the waiter
   * :video_game: [Take One](https://ginvr.itch.io/take-one)
@@ -28,11 +28,13 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
   * :new: [PR](https://github.com/questdb/questdb/pull/3006): Implemented the backslash escape mechanism to let the database user search for texts with special characters
 * :wrench: [GitHub Action r-asymptotic-testing](https://github.com/marketplace/actions/r-asymptotic-testing)
   * A Continuous Integration tool to test your R package on a PR with various input data sizes and leave messages in the PR if significant performance regression or improvements are detected.
+* :octocat:&nbsp; [DBeaver](https://github.com/dbeaver/dbeaver), a universal database tool and SQL client in java
+  * :new: [PR](https://github.com/dbeaver/dbeaver/pull/19743): Fix a small bug when generating UUID for multiple rows in a table
 
 ### Hardware Layer
 Tbh not much to share. I am a beginner but making progress fast.
 
-[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) is a game/tutorial to build CPUs at the transistor level with a GUI IDE, which took me into this field in Dec last year. I built a Turing Complete CPU in that game from NAND gates in 14 hours, and I have been trying my best to step into this industry since then.
+[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) is a game/tutorial to build CPUs at the transistor level with a GUI IDE, which took me into this field in Dec last year. I built a Turing Complete CPU in that game from NAND gates in 14 hours.
 
 I am self-learning FPGA (VHDL) now and hopefully I will develop a RISC-V instruction to calculate the great circle distances for an astronomical application later this year.
 
@@ -47,6 +49,9 @@ A+ in all courses<br></p>
 <p><strong>Hong Kong Polytechnic University</strong>, 09/2018-06/2022<br>
 Major in Accounting and Finance, Minor in Computing<br>
 Dean's List for 4 years<br></p>
+<p><strong>University of Cambridge</strong>, 07/2019<br>
+Macroeconomics and Philosophy<br>
+<br>
 <p><strong>SAP</strong>, 06/2021-12/2021<br>
 Intern as Support Engineer<br>
 Developed a Node.js program to synchronize two kinds of databases<br>
@@ -56,15 +61,15 @@ Intern as Auditor<br></p>
 </details>
 
 <details>
-<summary><strong>In case you wonder why there's so much irrelevant stuff on my resume</strong></summary>
+<summary><strong>In case you wonder why there's so much different stuff on my resume</strong></summary>
 <br>
-<p>First, I believe a good software engineer always cares about the hardware. If I really care about the performance of my application, I'mma optimize it from the logic gates.</p>
+<p>First, I am a career changer, so I started in the application layer and I made my way down.</p>
 <p>Second, I find different kinds of pleasure in different fields of programming.</p>
 
 <ol>
 <li><strong>The pleasure of solving puzzles</strong>: Leetcoding, coding games.</li>
 <li><strong>The pleasure of building, e.g. playing LEGO</strong>: application development, development of large-scale stuff.</li>
-<li><strong>The pleasure of talking with the agency of truth that seldom lies unless it's too hot</strong>: hardware development.</li>
+<li><strong>The pleasure of talking with the agency of truth that seldom lies unless it's too hot</strong>: hardware development, coding in assembly.</li>
 <li><strong>The pleasure of retrospecting how the world runs and then modeling it</strong>: OOP</li>
 <li><strong>The pleasure of hitting Enter</strong>: type-strict languages</li>
 </ol>
