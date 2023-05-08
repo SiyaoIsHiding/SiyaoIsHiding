@@ -14,12 +14,15 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
   * :video_game: [Take One](https://ginvr.itch.io/take-one)
     * Spray the garden hose to the kids taking more than 1 candy!
 * Full-Stack Web Development
-  * :octocat:&nbsp; [Fuck-off as a Service](https://github.com/SiyaoIsHiding/foaas) :globe_with_meridians: [Endpoint & Doc](https://fuckoffasaservice.azurewebsites.net/)
+  * :octocat:&nbsp; [Fuck-off as a Service](https://github.com/SiyaoIsHiding/foaas) :globe_with_meridians: [Endpoint & Doc](https://foaas-hoaxd.ondigitalocean.app/)
     * Providing a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
-    * I swear I am mentally healthy I did this only for fun.
+    * Just to play with my boyfriend to tell him to fuck-off conveniently
     * Node.js - Azure
   * :octocat:&nbsp; [MailBag](https://github.com/SiyaoIsHiding/mailbag)
     * React.js (TypeScript) - Node.js - NeDB (NoSQL)
+* Misc
+  * :octocat:&nbsp; [Discord Bot](https://github.com/SiyaoIsHiding/foaas-discord-bot) for Fuck-off-as-a-service 🤖 [Invitation Link](https://github.com/SiyaoIsHiding/foaas-discord-bot) 
+    * Just to play with my boyfriend to tell him to fuck-off even more conveniently
 
 ### Platform Layer
 * Ported R to RISC-V CPU and linked with faster linear algebra library
@@ -29,7 +32,7 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
 * :wrench: [GitHub Action r-asymptotic-testing](https://github.com/marketplace/actions/r-asymptotic-testing)
   * A Continuous Integration tool to test your R package on a PR with various input data sizes and leave messages in the PR if significant performance regression or improvements are detected.
 * :octocat:&nbsp; [DBeaver](https://github.com/dbeaver/dbeaver), a universal database tool and SQL client in java
-  * :new: [PR](https://github.com/dbeaver/dbeaver/pull/19743): Fix a small bug when generating UUID for multiple rows in a table
+  * :new: [PR](https://github.com/dbeaver/dbeaver/pull/19743): Fixed a small bug when generating UUID for multiple rows in a table
 
 ### Hardware Layer
 Tbh not much to share. I am a beginner but making progress fast.
