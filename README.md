@@ -2,6 +2,16 @@
 I do a lot of open-source contributions to gain experience, receive guidance from the seniors, make an impact, and have fun without those online assessments and rounds of interviews.
 ## Personal Projects & Contributions
 ### Application Layer
+* Full-Stack Web Development
+  * :octocat:&nbsp; [Banking Web App](https://github.com/shuguang-lv/bank) :globe_with_meridians: [Endpoint](https://bank-liart-five.vercel.app/)
+    * A super secure banking web app to explore cyber security threats and countermeasures, employing industry best practices, like utilizing JSON Web Tokens (JWT) for authentication as well as password salting and hashing
+    * Next.js, MySQL, Vercel
+  * :octocat:&nbsp; [Fuck-off as a Service](https://github.com/SiyaoIsHiding/foaas) :globe_with_meridians: [Endpoint & Doc](https://foaas-hoaxd.ondigitalocean.app/)
+    * Providing a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
+    * Just to play with my boyfriend to tell him to fuck-off conveniently
+    * Node.js - Azure
+  * :octocat:&nbsp; [MailBag](https://github.com/SiyaoIsHiding/mailbag)
+    * React.js (TypeScript) - Node.js - NeDB (NoSQL)
 * Full-Stack Mobile Development
   * :octocat:&nbsp; [CampusOfferFrontend](https://github.com/SiyaoIsHiding/CampusOfferFrontend) & :octocat:&nbsp;[CampusOfferBackend](https://github.com/SiyaoIsHiding/CampusOfferBackend)
     * The eBay for Campus!
@@ -13,16 +23,6 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
     * A single-player Overcooked! where you have to switch roles between the chef and the waiter
   * :video_game: [Take One](https://ginvr.itch.io/take-one)
     * Spray the garden hose to the kids taking more than 1 candy!
-* Full-Stack Web Development
-  * :octocat:&nbsp; [Banking Web App](https://github.com/shuguang-lv/bank) :globe_with_meridians: [Endpoint](https://bank-liart-five.vercel.app/)
-    * A super secure banking web app to explore cyber security threats and countermeasures, employing industry best practices, like utilizing JSON Web Tokens (JWT) for authentication as well as password salting and hashing
-    * Next.js, MySQL, Vercel
-  * :octocat:&nbsp; [Fuck-off as a Service](https://github.com/SiyaoIsHiding/foaas) :globe_with_meridians: [Endpoint & Doc](https://foaas-hoaxd.ondigitalocean.app/)
-    * Providing a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
-    * Just to play with my boyfriend to tell him to fuck-off conveniently
-    * Node.js - Azure
-  * :octocat:&nbsp; [MailBag](https://github.com/SiyaoIsHiding/mailbag)
-    * React.js (TypeScript) - Node.js - NeDB (NoSQL)
 * Misc
   * :octocat:&nbsp; [Discord Bot](https://github.com/SiyaoIsHiding/foaas-discord-bot) for Fuck-off-as-a-service 🤖 [Invitation Link](https://github.com/SiyaoIsHiding/foaas-discord-bot) 
     * Just to play with my boyfriend to tell him to fuck-off even more conveniently
