@@ -39,11 +39,11 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
   * :new: [PR](https://github.com/dbeaver/dbeaver/pull/19743): Fixed a small bug when generating UUID for multiple rows in a table
 
 ### Hardware Layer
-Tbh not much to share. I am a beginner but making progress fast.
+To be honest not much to share. I am a beginner but making progress fast.
 
 [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) is a game/tutorial to build CPUs at the transistor level with a GUI IDE, which took me into this field in Dec last year. I built a Turing Complete CPU in that game from NAND gates in 14 hours.
 
-I am self-learning FPGA (VHDL) now and hopefully I will develop a RISC-V instruction to calculate the great circle distances for an astronomical application later this year.
+I am self-learning FPGA (VHDL) now and I will develop a RISC-V CPU instruction to calculate the sphere distance this summer.
 
 ## More
 
