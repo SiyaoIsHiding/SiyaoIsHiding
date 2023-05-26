@@ -14,6 +14,9 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
   * :video_game: [Take One](https://ginvr.itch.io/take-one)
     * Spray the garden hose to the kids taking more than 1 candy!
 * Full-Stack Web Development
+  * :octocat:&nbsp; [Banking Web App](https://github.com/shuguang-lv/bank) :globe_with_meridians: [Endpoint](https://bank-liart-five.vercel.app/)
+    * A super secure banking web app to explore cyber security threats and countermeasures, employing industry best practices, like utilizing JSON Web Tokens (JWT) for authentication as well as password salting and hashing
+    * Next.js, MySQL, Vercel
   * :octocat:&nbsp; [Fuck-off as a Service](https://github.com/SiyaoIsHiding/foaas) :globe_with_meridians: [Endpoint & Doc](https://foaas-hoaxd.ondigitalocean.app/)
     * Providing a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
     * Just to play with my boyfriend to tell him to fuck-off conveniently
@@ -26,7 +29,8 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
 
 ### Platform Layer
 * Ported R to RISC-V CPU and linked with faster linear algebra library
-  * Contributed a small [fix](https://stat.ethz.ch/pipermail/r-devel/2023-February/082382.htmls) to base R future releases
+  * :new: [commit](https://github.com/wch/r-source/commit/bf4049593ff6a022ce0e196086928ed77f9951a4) Contributed a bug fix to the R souce code written in C
+  * :new: [the build guide](https://gist.github.com/SiyaoIsHiding)
 * :octocat:&nbsp; [QuestDB](https://github.com/questdb/questdb), a time-series database in java
   * :new: [PR](https://github.com/questdb/questdb/pull/3006): Implemented the backslash escape mechanism to let the database user search for texts with special characters
 * :wrench: [GitHub Action r-asymptotic-testing](https://github.com/marketplace/actions/r-asymptotic-testing)
