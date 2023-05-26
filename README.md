@@ -6,11 +6,16 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
   * :octocat:&nbsp; [Banking Web App](https://github.com/shuguang-lv/bank) :globe_with_meridians: [Endpoint](https://bank-liart-five.vercel.app/)
     * A super secure banking web app to explore cyber security threats and countermeasures, employing industry best practices, like utilizing JSON Web Tokens (JWT) for authentication as well as password salting and hashing
     * Next.js, MySQL, Vercel
+  * :octocat:&nbsp; [Compiler-Explorer](https://github.com/compiler-explorer/compiler-explorer) :globe_with_meridians: [Endpoint](https://godbolt.org/) 
+    * Run compilers interactively from your web browser and interact with the assembly!
+    * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5046#issuecomment-1548906259) Enabled the syntax highlight of comments in assembly codes
+    * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5041#issuecomment-1548905812) Implmeneted the feature to save the compilation output into files
   * :octocat:&nbsp; [Fuck-off as a Service](https://github.com/SiyaoIsHiding/foaas) :globe_with_meridians: [Endpoint & Doc](https://foaas-hoaxd.ondigitalocean.app/)
     * Providing a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
     * Just to play with my boyfriend to tell him to fuck-off conveniently
     * Node.js - Azure
   * :octocat:&nbsp; [MailBag](https://github.com/SiyaoIsHiding/mailbag)
+    * An email management web app
     * React.js (TypeScript) - Node.js - NeDB (NoSQL)
 * Full-Stack Mobile Development
   * :octocat:&nbsp; [CampusOfferFrontend](https://github.com/SiyaoIsHiding/CampusOfferFrontend) & :octocat:&nbsp;[CampusOfferBackend](https://github.com/SiyaoIsHiding/CampusOfferBackend)
@@ -37,7 +42,10 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
   * A Continuous Integration tool to test your R package on a PR with various input data sizes and leave messages in the PR if significant performance regression or improvements are detected.
 * :octocat:&nbsp; [DBeaver](https://github.com/dbeaver/dbeaver), a universal database tool and SQL client in java
   * :new: [PR](https://github.com/dbeaver/dbeaver/pull/19743): Fixed a small bug when generating UUID for multiple rows in a table
-
+* :octocat:&nbsp; [Compiler-Explorer](https://github.com/compiler-explorer/compiler-explorer) :globe_with_meridians: [Endpoint](https://godbolt.org/) (Mentioned above) 
+  * Run compilers interactively from your web browser and interact with the assembly!
+  * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5046#issuecomment-1548906259) Enabled the syntax highlight of comments in assembly codes
+  * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5041#issuecomment-1548905812) Implmeneted the feature to save the compilation output into files
 ### Hardware Layer
 To be honest not much to share. I am a beginner but making progress fast.
 
