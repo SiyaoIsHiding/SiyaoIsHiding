@@ -1,12 +1,12 @@
 # Hello from Siyao (Jane) He :wave:
-I do a lot of open-source contributions to gain experience, receive guidance from the seniors, make an impact, and have fun without those online assessments and rounds of interviews.
+I do not `git push` unless I find my codes beautiful.
 ## Personal Projects & Contributions
 ### Application Layer
 * Full-Stack Web Development
-  * :octocat:&nbsp; [Banking Web App](https://github.com/shuguang-lv/bank) :globe_with_meridians: [Endpoint](https://bank-liart-five.vercel.app/)
+  * :octocat:&nbsp; [Banking Web App](https://github.com/shuguang-lv/bank) :globe_with_meridians: [Website](https://bank-liart-five.vercel.app/)
     * A super secure banking web app to explore cyber security threats and countermeasures, employing industry best practices, like utilizing JSON Web Tokens (JWT) for authentication as well as password salting and hashing
     * Next.js, MySQL, Vercel
-  * :octocat:&nbsp; [Compiler-Explorer](https://github.com/compiler-explorer/compiler-explorer) :globe_with_meridians: [Endpoint](https://godbolt.org/) 
+  * :octocat:&nbsp; [Compiler-Explorer](https://github.com/compiler-explorer/compiler-explorer) :globe_with_meridians: [Website](https://godbolt.org/) 
     * Run compilers interactively from your web browser and interact with the assembly!
     * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5046#issuecomment-1548906259) Enabled the syntax highlight of comments in assembly codes
     * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5041#issuecomment-1548905812) Implmeneted the feature to save the compilation output into files
@@ -33,53 +33,31 @@ I do a lot of open-source contributions to gain experience, receive guidance fro
     * Just to play with my boyfriend to tell him to fuck-off even more conveniently
 
 ### Platform Layer
+* Bug fix in the source of R
+  * :new: [commit](https://github.com/wch/r-source/commit/bf4049593ff6a022ce0e196086928ed77f9951a4) Contributed a small fix to the R source code written in C
 * Ported R to RISC-V CPU and linked with faster linear algebra library
-  * :new: [commit](https://github.com/wch/r-source/commit/bf4049593ff6a022ce0e196086928ed77f9951a4) Contributed a bug fix to the R souce code written in C
-  * :new: [the build guide](https://gist.github.com/SiyaoIsHiding)
+  * :new: [the build guide](https://gist.github.com/SiyaoIsHiding) R can finally run on RISC-V
 * :octocat:&nbsp; [QuestDB](https://github.com/questdb/questdb), a time-series database in java
   * :new: [PR](https://github.com/questdb/questdb/pull/3006): Implemented the backslash escape mechanism to let the database user search for texts with special characters
-* :wrench: [GitHub Action r-asymptotic-testing](https://github.com/marketplace/actions/r-asymptotic-testing)
+* :wrench: [GitHub Action r-asymptotic-testing](https://github.com/marketplace/actions/r-asymptotic-testing) from Google Summer of Code 2023
   * A Continuous Integration tool to test your R package on a PR with various input data sizes and leave messages in the PR if significant performance regression or improvements are detected.
+* :octocat:&nbsp; [Mini-JVM](https://github.com/SiyaoIsHiding/Mini-JVM) A mini Java Virtual Machine in C++.
+  * Hard and useless. My type.
 * :octocat:&nbsp; [DBeaver](https://github.com/dbeaver/dbeaver), a universal database tool and SQL client in java
   * :new: [PR](https://github.com/dbeaver/dbeaver/pull/19743): Fixed a small bug when generating UUID for multiple rows in a table
-* :octocat:&nbsp; [Compiler-Explorer](https://github.com/compiler-explorer/compiler-explorer) :globe_with_meridians: [Endpoint](https://godbolt.org/) (Mentioned above) 
-  * Run compilers interactively from your web browser and interact with the assembly!
-  * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5046#issuecomment-1548906259) Enabled the syntax highlight of comments in assembly codes
-  * :new: [PR](https://github.com/compiler-explorer/compiler-explorer/pull/5041#issuecomment-1548905812) Implmeneted the feature to save the compilation output into files
 ### Hardware Layer
-To be honest not much to share. I am a beginner but making progress fast.
 
-[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) is a game/tutorial to build CPUs at the transistor level with a GUI IDE, which took me into this field in Dec last year. I built a Turing Complete CPU in that game from NAND gates in 14 hours.
+*  [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) is a game/tutorial to build CPUs at the transistor level with a GUI IDE.
+   * I built a Turing Complete CPU in that game from NAND gates in 14 hours when I had zero experience in computer architecture. I am more proud of it than whatever internship or 2nd highest GPA in my program or sth like that. Gonna twitch a speed run of it soon.
 
-I am self-learning FPGA (VHDL) now and I will develop a RISC-V CPU instruction to calculate the sphere distance this summer.
+I am also doing research involving Bluespec hardware dev, C, and shell scripting. The paper is not published yet so it's a secret. :P
 
 ## More
 
 <details>
-<summary><strong>Education &amp; Employment History</strong></summary>
-<br>
-<p><strong>University of California, Irvine</strong>, 09/2022-12/2023<br>
-Master of Software Engineering <br>
-A+ in all courses<br></p>
-<p><strong>Hong Kong Polytechnic University</strong>, 09/2018-06/2022<br>
-Major in Accounting and Finance, Minor in Computing<br>
-Dean's List for 4 years<br></p>
-<p><strong>University of Cambridge</strong>, 07/2019<br>
-Macroeconomics and Philosophy<br>
-<br>
-<p><strong>SAP</strong>, 06/2021-12/2021<br>
-Intern as Support Engineer<br>
-Developed a Node.js program to synchronize two kinds of databases<br>
-Restructured the financial analysis scripts from O(n^2) to O(n)<br></p>
-<p><strong>KPMG</strong>, 01/2021-04/2021<br>
-Intern as Auditor<br></p>
-</details>
-
-<details>
 <summary><strong>In case you wonder why there's so much different stuff on my resume</strong></summary>
 <br>
-<p>First, I am a career changer, so I started in the application layer and I made my way down.</p>
-<p>Second, I find different kinds of pleasure in different fields of programming.</p>
+<p>First, I find different kinds of pleasure in different fields of programming.</p>
 
 <ol>
 <li><strong>The pleasure of solving puzzles</strong>: Leetcoding, coding games.</li>
@@ -88,6 +66,10 @@ Intern as Auditor<br></p>
 <li><strong>The pleasure of retrospecting how the world runs and then modeling it</strong>: OOP</li>
 <li><strong>The pleasure of hitting Enter</strong>: type-strict languages</li>
 </ol>
+
+<p>And I just learn things fast and like to explore random stuff. Like I spent a Saturday learning discord bot API and wrote one to tell my bf to fuck off isn't that awesome?</p>
 </details>
+
+Update: many of my self-hosted web services above are out of service because all my free credits in all the common cloud providers run out. One more reason to find a job, right?
 
 
